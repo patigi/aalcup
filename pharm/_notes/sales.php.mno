@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_salesset" value="name:saleId;datatype:int,name:salecusId;datatype:string,name:scusPid;datatype:int,name:QTY;datatype:real,name:COST;datatype:real,name:scusDate;datatype:timestamp,name:cusPid;datatype:int,name:cusFname;datatype:string,name:cusLname;datatype:string,name:sn;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:transaction_id;datatype:string,name:Schdrugid;datatype:string,name:dSupplier;datatype:string,name:dQty;datatype:int,name:dCost;datatype:string,name:in_store;datatype:string,name:expiry;datatype:date,name:datead;datatype:date" />
+	<infoitem key="UD_fromscheduleorder" value="name:id;datatype:int,name:transaction_id;datatype:string,name:Schdrugid;datatype:string,name:dSupplier;datatype:string,name:dQty;datatype:int,name:dCost;datatype:string,name:in_store;datatype:string,name:expiry;datatype:date,name:datead;datatype:date" />
+</info>

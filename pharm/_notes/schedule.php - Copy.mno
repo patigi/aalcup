@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectSupplierSet" value="name:supName;datatype:string,name:supId;datatype:int" />
+</info>

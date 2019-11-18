@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_drugnameset" value="name:drugid;datatype:int,name:drugname;datatype:string,name:drugcategory;datatype:int" />
+</info>

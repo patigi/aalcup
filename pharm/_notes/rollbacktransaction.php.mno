@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_scheduleset" value="name:Schdrugid;datatype:string,name:dSupplier;datatype:string,name:dQty;datatype:int,name:dCost;datatype:string,name:drugname;datatype:string,name:supName;datatype:string" />
+	<infoitem key="UD_stockset" value="name:stockid;datatype:int,name:stockdid;datatype:int,name:stk_transaction_id;datatype:int,name:stockcost;datatype:string,name:stockprice;datatype:string,name:availableqty;datatype:int" />
+</info>

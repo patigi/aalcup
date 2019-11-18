@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectdrug" value="name:drugid;datatype:int,name:drugname;datatype:string" />
+	<infoitem key="UD_stockSet" value="name:stockcost;datatype:string,name:stockprice;datatype:string,name:availableqty;datatype:int,name:drugid;datatype:int,name:drugname;datatype:string,name:sn;datatype:int" />
+</info>

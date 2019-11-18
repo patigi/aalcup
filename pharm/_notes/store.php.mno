@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_stockSet" value="name:storeId;datatype:int,name:storeDid;datatype:int,name:storedrgQty;datatype:int,name:storedrgqtyout;datatype:int,name:storedrgCost;datatype:int,name:storeDate;datatype:timestamp,name:storedrgexpiry;datatype:date,name:username;datatype:string,name:store_status;datatype:string,name:drugid;datatype:int,name:drugname;datatype:string,name:drugcategory;datatype:int,name:ddescription;datatype:blob,name:@rownum:=0;datatype:int,name:SN;datatype:int" />
+</info>

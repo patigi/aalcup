@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_customersalesdetail" value="name:saleId;datatype:int,name:salecusId;datatype:string,name:scusPid;datatype:int,name:scusDid;datatype:int,name:scusQty;datatype:int,name:scusCost;datatype:int,name:scusDate;datatype:timestamp,name:id;datatype:int,name:cusId;datatype:string,name:cusPid;datatype:int,name:cusFname;datatype:string,name:cusLname;datatype:string,name:cusId;datatype:string,name:cusPid;datatype:int,name:cusFname;datatype:string,name:cusLname;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectdrug" value="name:drugid;datatype:int,name:drugname;datatype:string" />
+	<infoitem key="UD_salesreportset" value="name:saleId;datatype:int,name:salecusId;datatype:string,name:scusPid;datatype:int,name:scusDid;datatype:int,name:scusQty;datatype:int,name:scusCost;datatype:int,name:scusDate;datatype:timestamp,name:id;datatype:int,name:cusId;datatype:string,name:cusPid;datatype:int,name:cusFname;datatype:string,name:cusLname;datatype:string,name:drugid;datatype:int,name:drugname;datatype:string,name:ddescription;datatype:blob,name:@rownum:=0;datatype:int,name:cusId;datatype:string,name:cusPid;datatype:int,name:cusFname;datatype:string,name:cusLname;datatype:string,name:drugname;datatype:string,name:sn;datatype:int" />
+</info>

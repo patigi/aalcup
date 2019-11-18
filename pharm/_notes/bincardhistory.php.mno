@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_bincardset" value="name:bindid;datatype:int,name:qtyin;datatype:int,name:qtyout;datatype:int,name:qtybal;datatype:int,name:drugname;datatype:string,name:drugid;datatype:int,name:sn;datatype:int" />
+</info>

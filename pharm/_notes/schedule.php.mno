@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectSupplierSet" value="name:supName;datatype:string,name:supId;datatype:int" />
+	<infoitem key="UD_selectdrugSet" value="name:drugid;datatype:int,name:drugname;datatype:string" />
+	<infoitem key="UD_orderedDrugSet" value="name:Schdrugid;datatype:string,name:dSupplier;datatype:string,name:dQty;datatype:int,name:dCost;datatype:string,name:drugid;datatype:int,name:drugname;datatype:string,name:supName;datatype:string,name:supId;datatype:int" />
+	<infoitem key="UD_suplierSet" value="name:supId;datatype:int,name:supName;datatype:string" />
+	<infoitem key="UD_scheduleOrderSet" value="name:Schdrugid;datatype:string,name:dSupplier;datatype:string,name:dQty;datatype:int,name:dCost;datatype:string,name:drugname;datatype:string,name:supName;datatype:string,name:id;datatype:int,name:sn;datatype:int" />
+	<infoitem key="UD_supplierSet" value="name:supId;datatype:int,name:supName;datatype:string" />
+	<infoitem key="UD_drugSet" value="name:drugid;datatype:int,name:drugname;datatype:string" />
+	<infoitem key="UD_check_transaction" value="name:stockdid;datatype:int" />
+</info>

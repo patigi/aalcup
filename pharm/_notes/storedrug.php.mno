@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_drugcat" value="name:id;datatype:int,name:cat_name;datatype:string" />
+	<infoitem key="UD_supplierSet" value="name:supId;datatype:int,name:supName;datatype:string" />
+</info>
